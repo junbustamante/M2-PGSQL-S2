@@ -1,4 +1,12 @@
-# Ejercicios de Consultas Básicas
+# Taller: Consultas básicas
+## Objetivo
+
+Realizar consultas básicas sobre la base de datos del sistema bancario.
+
+## Entrega
+
+Se debe subir un archivo .sql con la solución a todas las consultas enumeradas en la parte de abajo.
+
 
 1. **SELECT Básico**
    - **Enunciado:** Selecciona todos los registros de la tabla "Clientes".
